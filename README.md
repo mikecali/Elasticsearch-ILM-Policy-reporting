@@ -2,8 +2,7 @@
 This is a collection of a simple python code that can be use to create a simple summary of the ILM Policy and display it web using streamlit. This app process diagnostic data from Elasticsearch Cluster (ECE or ESS) and generate a report, ILM Policies, Number of Indices, Policy Details and Phases and Actions for each policy.
 
 
-
-Disclaimer
+# Disclaimer
 
 IMPORTANT: This tool is provided as-is, without any warranties or guarantees. Neither the creator of this tool nor Elastic (the company behind Elasticsearch) can be held responsible for any issues, data loss, or damage that may occur from using this tool. Use it at your own risk and always ensure you have proper backups of your Elasticsearch data before running any diagnostic or visualization tools.
 
