@@ -23,9 +23,10 @@ Clone this repository:
 2. Navigate to the project directory:
 
 3. cd Elasticsearch-ILM-Policy-reporting.git
-Install the required Python libraries:
 
-pip install pandas json streamlit
+4. Install the required Python libraries:
+
+    'pip install pandas json streamlit'
 
 # Usage
 
