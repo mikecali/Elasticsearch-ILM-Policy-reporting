@@ -3,18 +3,6 @@ This is a collection of a simple python code that can be use to create a simple 
 
 ![Screenshot 2024-09-03 at 1 10 19 PM](https://github.com/user-attachments/assets/13d3f4c7-a37b-4916-a8d4-41822368b72a)
 ![Screenshot 2024-09-03 at 1 10 36 PM](https://github.com/user-attachments/assets/fdfd4cef-2656-438a-9664-450246ec3d98)
-![Screenshot 2024-09-03 at 1 10 59 PM](https://github.com/user-attachments/assets/ec843dec-7b88-4313-935f-a6ff44baae0d)
-
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center;">
-        <img src="https://github.com/user-attachments/assets/13d3f4c7-a37b-4916-a8d4-41822368b72a" alt="Image 1" width="200"/>
-        <p>Image 1 Description</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/user-attachments/assets/fdfd4cef-2656-438a-9664-450246ec3d98" alt="Image 2" width="200"/>
-        <p>Image 2 Description</p>
-    </div>
-</div>
 
 # Disclaimer
 
