@@ -53,7 +53,7 @@ There are two scripts in this repository, first we need to upload those 2 files 
     
      ``` streamlit run ilm-report.py ```
 
-4. Upload the donwloaded file: flattened_ilm_data-2.json
+4. Upload the donwloaded file: flattened_ilm_data.json
 
 5. Review the report
 
