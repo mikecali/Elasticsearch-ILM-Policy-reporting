@@ -26,24 +26,38 @@ Clone this repository:
 
 4. Install the required Python libraries:
 
-    'pip install pandas json streamlit'
+    ```pip install pandas json streamlit```
 
 # Usage
 
-Ensure you have Elasticsearch cluster diagnostic data in JSON format. The tool expects the following files:
+Ensure you have Elasticsearch cluster diagnostic data in JSON format. 
 
-nodes/nodes_stats.json
-nodes/nodes_info.json
-indices/indices_stats.json
-Run the main script with the path to your diagnostics directory:
+The tool expects the following files:
 
-python main.py /path/to/your/diagnostics/directory
-The script will generate an HTML file named elasticsearch_cluster_visualization.html in the same directory.
+ilm_policies.json
+ilm_explain.json
 
-Open the generated HTML file in a web browser to view the interactive visualization.
+There are two scripts in this repository, first we need to upload those 2 files above to flatten the json files.
 
-# Features
+1. Run the first application:
 
+     ``` streamlit run ilm-combine-file.py ```
+
+2. Upload the 2 files: ilm_policies.json and ilm_explain.json.
+
+3. Donwload the flattend file.
+
+4. Run the second application:
+    
+     ``` streamlit run ilm-report.py ```
+
+4. Upload the donwloaded file: flattened_ilm_data-2.json
+
+5. Review the report
+
+# Contribution
+
+Contributions to improve this tool are welcome. Please fork the repository and submit a pull request with your changes.
 
 # License
 
