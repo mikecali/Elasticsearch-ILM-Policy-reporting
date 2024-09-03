@@ -67,6 +67,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgments
 
-This tool uses D3.js for visualization
 Inspired by the Elasticsearch community and the need for better cluster diagnostics visualization
 Remember: Always use this tool responsibly and ensure you have proper authorization to access and visualize your Elasticsearch cluster data.
